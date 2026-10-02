@@ -41,10 +41,3 @@ I build skills, plugins, and observability tooling that make agents work as one 
   </p>
 </details>
 
-<details>
-  <summary><b>📈&nbsp;&nbsp;GitHub&nbsp;Stats</b></summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=erlinerd&show_icons=true&hide_border=true&title_color=6D28D9&icon_color=4F46E5&text_color=24292F&bg_color=FFFFFF" alt="Erlin's github stats" />
-  </a>
-</details>
