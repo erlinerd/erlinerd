@@ -18,6 +18,11 @@ Focused on AI agent workflow engineering.
 
 I build skills, plugins, and observability tooling that make agents work as one team with humans.
 
+#### Apps on the App Store
+
+- [Klok](https://apps.apple.com/cn/app/klok/id6802043181) — a focused desk clock for iPhone and iPad
+- [Siflo](https://apps.apple.com/app/siflo) — a continuity engine for projects that span weeks — walk away, come back, pick up where you left off
+
 #### What I'm building
 
 - [pi-token-summary](https://github.com/erlinerd/pi-token-summary) — inline token and cost statistics for the pi coding agent: per-round token count, context usage, and spend with verbose/brief/off modes
