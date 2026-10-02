@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an independent iOS developer from Hangzhou, now focused on AI agent workflow engineering.
+Focused on AI agent workflow engineering.
 
 - 🔭 &nbsp;Currently building: pi plugins, zcode plugins — fail-open observability & memory for coding agents
 - 🌱 &nbsp;Learning: agent orchestration, multi-host skill systems
@@ -12,11 +12,11 @@ I'm an independent iOS developer from Hangzhou, now focused on AI agent workflow
 
 | | | |
 |:--:|:--:|:--:|
-| <a href="https://erlinerd.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" width="32"></a> | <a href="https://x.com/at_erlinerd"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/x.svg" width="32"></a> | <a href="https://github.com/erlinerd"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="32"></a> |
+| <a href="https://erlinerd.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" width="32"></a> | <a href="https://x.com/at_erlinerd"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="32"></a> | <a href="https://github.com/erlinerd"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="32"></a> |
 
 ### ✨&nbsp; About Me
 
-I started as an iOS developer building small, focused apps. Over the past year my focus has shifted to AI agent workflow engineering — building skills, plugins, and observability tooling that make agents work as one team with humans.
+I build skills, plugins, and observability tooling that make agents work as one team with humans.
 
 #### What I'm building
 
