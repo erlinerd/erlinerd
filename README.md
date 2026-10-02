@@ -31,10 +31,10 @@ I build skills, plugins, and observability tooling that make agents work as one 
 
 #### Open source contributions
 
-- [yetone/magpie](https://github.com/yetone/magpie) — fix(davsync): detect a WebDAV write the server kept short ([PR #531](https://github.com/yetone/magpie/pull/531))
-- [ant-design/pro-editor](https://github.com/ant-design/pro-editor) — feat: 删除线语法使用标准 markdown 语法 ([PR #172](https://github.com/ant-design/pro-editor/pull/172))
-- [ant-design/pro-chat](https://github.com/ant-design/pro-chat) — feat: 修改部分场景中 ProChatProvider 对 StoreUpdater 的重复引入 ([PR #118](https://github.com/ant-design/pro-chat/pull/118))
-- [jdf2e/nutui-react](https://github.com/jdf2e/nutui-react) — fix: 修复 swipe 存在点击事件时 onTouchStart 报错 ([PR #1608](https://github.com/jdf2e/nutui-react/pull/1608))
+- [yetone/magpie](https://github.com/yetone/magpie)
+- [ant-design/pro-editor](https://github.com/ant-design/pro-editor)
+- [ant-design/pro-chat](https://github.com/ant-design/pro-chat)
+- [jdf2e/nutui-react](https://github.com/jdf2e/nutui-react)
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
