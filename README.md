@@ -20,15 +20,12 @@ I build skills, plugins, and observability tooling that make agents work as one 
 
 #### What I'm building
 
-- [pi-token-summary](https://github.com/erlinerd/pi-token-summary) — inline token/cost stats for the pi coding agent: ↓本轮 · Σ tok · ctx% · $ per round
-- [pi-footer-wrap](https://github.com/erlinerd/pi-footer-wrap) — footer wrapper plugin for pi
-- [zcode-plugin-langfuse](https://github.com/erlinerd/zcode-plugin-langfuse) — fail-open Langfuse observability plugin for ZCode
-- [zcode-plugin-honcho](https://github.com/erlinerd/zcode-plugin-honcho) — fail-open Honcho memory plugin for ZCode: session-start recall, idempotent outbox writeback
+- [pi-token-summary](https://github.com/erlinerd/pi-token-summary) — inline token and cost statistics for the pi coding agent: per-round token count, context usage, and spend with verbose/brief/off modes
+- [pi-footer-wrap](https://github.com/erlinerd/pi-footer-wrap) — footer wrapper plugin for the pi coding agent: customizable status line and footer display
 - [dsh-plugin-langfuse](https://github.com/erlinerd/dsh-plugin-langfuse) — fail-open Langfuse observability plugin for DeepSeek Harness
 - [dsh-plugin-honcho](https://github.com/erlinerd/dsh-plugin-honcho) — fail-open Honcho memory loop plugin for DeepSeek Harness
-- [erlin-skills](https://github.com/erlinerd/erlin-skills) — 27 personal AI workflow skills in four buckets: engineering flow, App Store shipping, web motion, personal knowledge
-- [learn-easel](https://github.com/erlinerd/learn-easel) — 《Agent 构建之道》44-lesson Chinese course, dissecting Easel from zero to agent
-- [pi-book](https://erlinerd.com/en/lab/pi-book) — 《大话 Pi》a guide to the pi-mono source code
+- [erlin-skills](https://github.com/erlinerd/erlin-skills) — 27 AI workflow skills in four buckets: engineering flow, App Store shipping, web motion, and personal knowledge
+- [startup](https://github.com/erlinerd/startup) — a batteries-included full-stack monorepo starter: landing site, desktop app, and API server in one codebase
 
 [⏩ &nbsp; and many more](https://github.com/erlinerd?tab=repositories&q=&type=source&language=&sort=stargazers)
 
