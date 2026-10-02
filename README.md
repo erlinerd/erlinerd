@@ -28,6 +28,7 @@ I build skills, plugins, and observability tooling that make agents work as one 
 - [dsh-plugin-honcho](https://github.com/erlinerd/dsh-plugin-honcho) — fail-open Honcho memory loop plugin for DeepSeek Harness
 - [erlin-skills](https://github.com/erlinerd/erlin-skills) — 27 personal AI workflow skills in four buckets: engineering flow, App Store shipping, web motion, personal knowledge
 - [learn-easel](https://github.com/erlinerd/learn-easel) — 《Agent 构建之道》44-lesson Chinese course, dissecting Easel from zero to agent
+- [pi-book](https://erlinerd.com/en/lab/pi-book) — 《大话 Pi》a guide to the pi-mono source code
 
 [⏩ &nbsp; and many more](https://github.com/erlinerd?tab=repositories&q=&type=source&language=&sort=stargazers)
 
