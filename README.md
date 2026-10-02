@@ -17,10 +17,10 @@ I believe in minimal, local-first, account-free, zero-interruption software.
 
 ## What I'm working on
 
-- **[klok](https://erlinerd.com/en/lab/klok)** — a minimal desktop-shelf clock for iOS (SwiftUI + bilingual Next.js site)
-- **[erlin-skills](https://github.com/erlinerd/erlin-skills)** — my personal AI workflow skill system, 27 skills
-- **[learn-easel](https://github.com/erlinerd/learn-easel)** — *The Way of Agent Building*, a 44-lesson course dissecting Easel
-- **[pi-book](https://erlinerd.com/en/lab/pi-book)** — *The Story of Pi*, a guide to the pi-mono source code
+- **[erlinerd.com](https://erlinerd.com)** — my personal site & blog
+- **[zcode-plugin-langfuse](https://github.com/erlinerd/zcode-plugin-langfuse)** — fail-open Langfuse observability plugin for ZCode
+- **[zcode-plugin-honcho](https://github.com/erlinerd/zcode-plugin-honcho)** — fail-open Honcho memory plugin for ZCode
+- **[pi-token-summary](https://github.com/erlinerd/pi-token-summary)** — inline token/cost stats for the pi coding agent
 
 <div align="center">
 
