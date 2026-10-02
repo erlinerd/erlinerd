@@ -18,9 +18,10 @@ I believe in minimal, local-first, account-free, zero-interruption software.
 ## What I'm working on
 
 - **[erlinerd.com](https://erlinerd.com)** — my personal site & blog
+- **[pi-token-summary](https://github.com/erlinerd/pi-token-summary)** — inline token/cost stats for the pi coding agent
+- **[pi-footer-wrap](https://github.com/erlinerd/pi-footer-wrap)** — footer wrapper plugin for pi
 - **[zcode-plugin-langfuse](https://github.com/erlinerd/zcode-plugin-langfuse)** — fail-open Langfuse observability plugin for ZCode
 - **[zcode-plugin-honcho](https://github.com/erlinerd/zcode-plugin-honcho)** — fail-open Honcho memory plugin for ZCode
-- **[pi-token-summary](https://github.com/erlinerd/pi-token-summary)** — inline token/cost stats for the pi coding agent
 
 <div align="center">
 
