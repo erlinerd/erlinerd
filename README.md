@@ -1,33 +1,53 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=header">
-  <img alt="header" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=header">
-</picture>
+<p align="center">
+  <a href="https://erlinerd.com">
+    <img width="100%" alt="Erlin — Independent iOS developer, now building AI agent workflows" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=160&section=header&text=Erlin&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn">
+  </a>
+</p>
 
-<div align="center">
+<br />
 
-# Erlin
+I'm an independent iOS developer from Hangzhou 🇨🇳, now focused on AI agent workflow engineering.
 
-Independent iOS developer in Hangzhou. Over the past year my focus has shifted to AI agent workflow engineering — from building apps for one person to conducting a fleet of agents.
+**About me**
 
-I believe in minimal, local-first, account-free, zero-interruption software.
+- 💼 Independent developer — building minimal, local-first, account-free software
 
-[erlinerd.com](https://erlinerd.com)
+- 📈 Built erlin-skills (27 skills), pi plugins, zcode plugins — fail-open observability & memory for coding agents
 
-</div>
+- ❤️ I love SwiftUI, TypeScript, and making agents work as one team with humans
 
-## What I'm working on
+- 💬 Ask me about anything [here](https://github.com/erlinerd/erlinerd/issues)
 
-- **[erlinerd.com](https://erlinerd.com)** — my personal site & blog
-- **[pi-token-summary](https://github.com/erlinerd/pi-token-summary)** — inline token/cost stats for the pi coding agent
-- **[pi-footer-wrap](https://github.com/erlinerd/pi-footer-wrap)** — footer wrapper plugin for pi
-- **[zcode-plugin-langfuse](https://github.com/erlinerd/zcode-plugin-langfuse)** — fail-open Langfuse observability plugin for ZCode
-- **[zcode-plugin-honcho](https://github.com/erlinerd/zcode-plugin-honcho)** — fail-open Honcho memory plugin for ZCode
+<code><img height="20" alt="swift" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-<div align="center">
+<br />
+<br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=erlinerd&hide=stars,followers&hide_rank=true&hide_border=true&show_icons=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590&icon_color=957fff">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=erlinerd&hide=stars,followers&hide_rank=true&hide_border=true&show_icons=true&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=6d5ef3">
-</picture>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=erlinerd&show_icons=true&include_all_commits=true&hide_border=true&title_color=6D28D9&icon_color=4F46E5&text_color=24292F&bg_color=FFFFFF" alt="Erlin's github stats" />
+  </a>
+</p>
 
-</div>
+<br />
+
+#### Top Repositories
+
+<a href="https://github.com/erlinerd/pi-token-summary">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erlinerd&repo=pi-token-summary&title_color=6D28D9&icon_color=4F46E5&text_color=24292F&bg_color=FFFFFF" />
+</a>
+<a href="https://github.com/erlinerd/zcode-plugin-langfuse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erlinerd&repo=zcode-plugin-langfuse&title_color=6D28D9&icon_color=4F46E5&text_color=24292F&bg_color=FFFFFF" />
+</a>
+
+<br />
+<br />
+
+<a href="https://x.com/at_erlinerd">
+  <img align="right" alt="Erlin | X" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://erlinerd.com">
+  <img align="right" alt="Erlin | Blog" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
