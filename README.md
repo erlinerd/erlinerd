@@ -2,7 +2,7 @@
 
 Focused on AI agent workflow engineering.
 
-- 🔭 &nbsp;Currently building: pi plugins, zcode plugins — fail-open observability & memory for coding agents
+- 🔭 &nbsp;Currently building: pi plugins, dsh plugins — fail-open observability & memory for coding agents
 - 🌱 &nbsp;Learning: agent orchestration, multi-host skill systems
 - 💬 &nbsp;Ask me about: SwiftUI, TypeScript, Langfuse, Honcho, or anything agent-related
 - 👨💻 &nbsp;Read more at [erlinerd.com](https://erlinerd.com)
@@ -12,7 +12,7 @@ Focused on AI agent workflow engineering.
 
 | | | | |
 |:--:|:--:|:--:|:--:|
-| <a href="https://erlinerd.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" width="32"></a> | <a href="https://x.com/at_erlinerd"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="32"></a> | <a href="https://github.com/erlinerd"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="32"></a> | <a href="mailto:erlinerd@outlook.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" width="32"></a> |
+| <a href="https://erlinerd.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" width="32"></a> | <a href="https://x.com/at_erlinerd"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="32"></a> | <a href="https://github.com/erlinerd"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="32"></a> | <a href="mailto:erlinerd@outlook.com">✉️</a> |
 
 ### ✨&nbsp; About Me
 
@@ -43,7 +43,7 @@ I build skills, plugins, and observability tooling that make agents work as one 
     <a href="https://swift.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="36" height="36"/></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/></a>
-    <a href="https://nextjs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="36" height="36"/></a>
+    <a href="https://nextjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="36" height="36"/></a>
     <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/></a>
   </p>
