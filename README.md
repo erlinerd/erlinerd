@@ -22,6 +22,7 @@ I build skills, plugins, and observability tooling that make agents work as one 
 
 - [Klok](https://apps.apple.com/app/klok/id6802043181) — a focused desk clock for iPhone and iPad
 - [Siflo](https://apps.apple.com/app/siflo/id6797773980) — a continuity engine for projects that span weeks — walk away, come back, pick up where you left off
+- [Cobble Tools](https://apps.apple.com/app/cobble-tools/id6802622661) — Finder right-click menu enhancer for macOS: copy path, quick new file, open with
 
 #### What I'm building
 
