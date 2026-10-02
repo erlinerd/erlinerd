@@ -10,9 +10,9 @@ Focused on AI agent workflow engineering.
 
 🔗 &nbsp;**Connect with me**
 
-| | | |
-|:--:|:--:|:--:|
-| <a href="https://erlinerd.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" width="32"></a> | <a href="https://x.com/at_erlinerd"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="32"></a> | <a href="https://github.com/erlinerd"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="32"></a> |
+| | | | |
+|:--:|:--:|:--:|:--:|
+| <a href="https://erlinerd.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" width="32"></a> | <a href="https://x.com/at_erlinerd"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="32"></a> | <a href="https://github.com/erlinerd"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="32"></a> | <a href="mailto:erlinerd@outlook.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" width="32"></a> |
 
 ### ✨&nbsp; About Me
 
@@ -27,18 +27,16 @@ I build skills, plugins, and observability tooling that make agents work as one 
 - [dsh-plugin-langfuse](https://github.com/erlinerd/dsh-plugin-langfuse) — fail-open Langfuse observability plugin for DeepSeek Harness
 - [dsh-plugin-honcho](https://github.com/erlinerd/dsh-plugin-honcho) — fail-open Honcho memory loop plugin for DeepSeek Harness
 - [erlin-skills](https://github.com/erlinerd/erlin-skills) — 27 personal AI workflow skills in four buckets: engineering flow, App Store shipping, web motion, personal knowledge
+- [learn-easel](https://github.com/erlinerd/learn-easel) — 《Agent 构建之道》44-lesson Chinese course, dissecting Easel from zero to agent
 
 [⏩ &nbsp; and many more](https://github.com/erlinerd?tab=repositories&q=&type=source&language=&sort=stargazers)
 
 #### Open source contributions
 
 - [yetone/magpie](https://github.com/yetone/magpie) — fix(davsync): detect a WebDAV write the server kept short ([PR #531](https://github.com/yetone/magpie/pull/531))
-- [multica-ai/multica](https://github.com/multica-ai/multica) — fix(mobile): build and launch the iOS app on Xcode 27 ([PR #8448](https://github.com/multica-ai/multica/pull/8448))
-- [zai-org/zcode-plugins](https://github.com/zai-org/zcode-plugins) — feat(zcode-plugin-langfuse): add Langfuse observability plugin ([PR #11](https://github.com/zai-org/zcode-plugins/pull/11))
 - [ant-design/pro-editor](https://github.com/ant-design/pro-editor) — feat: 删除线语法使用标准 markdown 语法 ([PR #172](https://github.com/ant-design/pro-editor/pull/172))
 - [ant-design/pro-chat](https://github.com/ant-design/pro-chat) — feat: 修改部分场景中 ProChatProvider 对 StoreUpdater 的重复引入 ([PR #118](https://github.com/ant-design/pro-chat/pull/118))
 - [jdf2e/nutui-react](https://github.com/jdf2e/nutui-react) — fix: 修复 swipe 存在点击事件时 onTouchStart 报错 ([PR #1608](https://github.com/jdf2e/nutui-react/pull/1608))
-- [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) — Pi export: openai-chat providers should emit supportsDeveloperRole: false ([Issue #5664](https://github.com/lidge-jun/opencodex/issues/5664))
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
